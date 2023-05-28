@@ -1,10 +1,12 @@
 # FUCK-OpenAI-Domain-List
 为了避免错误地访问OPENAI、CHATGPT，可以屏蔽或调整部分域名的规则，以及重定向等操作
 
----
-# OpenAI 和 ChatGPT 域名访问规则
+你可以在这里获得Hosts列表 [OpenAI.txt](OpenAI.txt)
 
-为了避免错误地访问 OpenAI 和 ChatGPT，你可以在你的设备上屏蔽或调整部分域名的规则。
+另外你还可以用我的另外一个项目去广告和跟踪器 https://github.com/BlueSkyXN/AdGuardHomeRules
+
+---
+
 
 ## OpenAI 官方域名
 
@@ -21,7 +23,11 @@
 
 ## 订阅管理器域名
 
-这个域名和 iOS 有关。实测发现，即使屏蔽了此域名，也不会影响 iOS PLUS 用户的功能。但我们无法确定是否会影响新购的用户，请根据自己的实际情况判断：
+这个域名和 iOS 有关。
+
+[Review.md](Review.md)
+
+实测发现，即使屏蔽了此域名，也不会影响 iOS PLUS 用户的功能。但我们无法确定是否会影响新购的用户，请根据自己的实际情况判断：
 
 ```
 127.0.0.1 api.revenuecat.com
@@ -29,7 +35,13 @@
 
 ## 跟踪器
 
-下列各类跟踪器的域名，可以根据需要进行屏蔽：
+下列各类跟踪器的域名
+
+[Review.md](Review.md)
+
+可以根据需要进行屏蔽：
+
+
 
 ```
 127.0.0.1 o33249.ingest.sentry.io
