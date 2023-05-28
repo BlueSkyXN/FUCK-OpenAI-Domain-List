@@ -1,0 +1,19 @@
+# [FUCK-OpenAI-Domain-List]
+# Homepage: https://github.com/BlueSkyXN/FUCK-OpenAI-Domain-List
+# License: GPL v3
+# 为了避免错误地访问OPENAI、CHATGPT，可以屏蔽或调整部分域名的规则
+
+# OpenAI官方域名，如果一个机器不属于OpenAI服务区，比如中国大陆、香港等，建议在设备直接Host写死，包括本地设备和远程设备
+# 127.0.0.1 chat.openai.com
+# 127.0.0.1 ios.chat.openai.com
+# 127.0.0.1 api.openai.com
+# 127.0.0.1 platform.openai.com
+
+# 订阅管理器域名，和IOS有关系，但是实测屏蔽了不影响IOS PLUS用户功能，不确定是否影响新购，请自行判断
+127.0.0.1 api.revenuecat.com
+
+# 各类跟踪器，一坨屎，必杀
+127.0.0.1 o33249.ingest.sentry.io
+127.0.0.1 events.statsigapi.net
+127.0.0.1 api.mixpanel.com
+127.0.0.1 browser-intake-datadoghq.com
