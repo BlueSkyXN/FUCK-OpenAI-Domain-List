@@ -23,9 +23,7 @@
 
 ## 订阅管理器域名
 
-这个域名和 iOS 有关。
-
-[Review.md](Review.md)
+这个域名和 iOS 有关。   [Review.md](Review.md)
 
 实测发现，即使屏蔽了此域名，也不会影响 iOS PLUS 用户的功能。但我们无法确定是否会影响新购的用户，请根据自己的实际情况判断：
 
@@ -35,9 +33,7 @@
 
 ## 跟踪器
 
-下列各类跟踪器的域名
-
-[Review.md](Review.md)
+下列各类跟踪器的域名    [Review.md](Review.md)
 
 可以根据需要进行屏蔽：
 
