@@ -1,3 +1,10 @@
+## 官方服务域名概览
+### oaiusercontent.com
+主要子域名 files.oaiusercontent.com，目前发现是被用于存放DIY-GPT-Bots的头像的
+
+### oaistatic.com
+主要子域名 cdn.oaistatic.com ，目前发现是新的用来存放官方JS、CSS、字体woff2等HTML用的资源文件。如果这个域名不可用会导致网页失去渲染。
+
 ## 第三方服务概览
 
 本文简要介绍了以下五个第三方服务及其域名。
