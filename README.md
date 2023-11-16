@@ -17,6 +17,8 @@
 # 127.0.0.1 ios.chat.openai.com
 # 127.0.0.1 api.openai.com
 # 127.0.0.1 platform.openai.com
+# 127.0.0.1 oaistatic.com
+# 127.0.0.1 oaiusercontent.com
 ```
 
 请注意，这些规则默认被注释掉了，如果你需要使用，你可以去掉 `#` 符号。
