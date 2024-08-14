@@ -23,7 +23,7 @@
 # 127.0.0.1 files.oaiusercontent.com
 # 127.0.0.1 chatgpt.com
 # 127.0.0.1 cdn.oaistatic.com
-# 127.0.0.1 cdn.oaistatic.com
+# 127.0.0.1 ab.chatgpt.com
 ```
 
 请注意，这些规则默认被注释掉了，如果你需要使用，你可以去掉 `#` 符号。
