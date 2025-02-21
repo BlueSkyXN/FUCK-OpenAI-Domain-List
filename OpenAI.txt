@@ -10,6 +10,8 @@
 # 127.0.0.1 platform.openai.com
 # 127.0.0.1 oaistatic.com
 # 127.0.0.1 oaiusercontent.com
+# 127.0.0.1 cdn.oaistatic.com
+# 127.0.0.1 ab.chatgpt.com
 
 # 订阅管理器域名，和IOS有关系，但是实测屏蔽了不影响IOS PLUS用户功能，不确定是否影响新购，请自行判断
 127.0.0.1 api.revenuecat.com
